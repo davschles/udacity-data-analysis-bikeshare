@@ -3,6 +3,8 @@
 ## 📌 Project Overview
 This project is an interactive command-line tool designed to explore and analyze bike-share data from three major US cities: **Chicago**, **New York City**, and **Washington**.
 
+The full data files have been reached by Udacity and cannot be share on this platform as such. For this reason you can find a sample version of them in the **data** folder.
+
 The goal was to transform raw CSV data into actionable business insights by computing descriptive statistics regarding trip duration, station popularity, and user demographics.
 
 ## 🛠️ Technical Stack
